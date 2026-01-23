@@ -151,6 +151,7 @@ Here are some projects and websites that creatively integrate [no-as-a-service](
    
 8. **[no-as-a-service-asp](https://github.com/sapph42/no-as-a-service)**  
    A straight-forward implementation of NaaS in ASP.NET Core
+   
 9. **[No as a Service - Raycast Extension](https://www.raycast.com/nedini/no-as-a-service)**  
    Get a random No from within Raycast. Just install the extension from the Raycast store, open Raycast, then type in 'Random No'. Raycast extension: [No as a Service](https://www.raycast.com/nedini/no-as-a-service).
 10. **[Nopeify]([https://github.com/omar-jarid/NoAsAnApp](https://apps.apple.com/us/app/nopeify/id6757724453))**  
@@ -165,7 +166,10 @@ Here are some projects and websites that creatively integrate [no-as-a-service](
 13. **[No-as-a-Service GNOME Search](https://extensions.gnome.org/extension/9186/naas-gnome-search/)**
    GNOME search provider for the No-as-a-Service API. Type 'no' to get a random excuse. Click or press Enter to copy to clipboard.
 
-14. **[Your Project Here?](https://github.com/YOUR_REPO)**
+14 **[No MCP](https://github.com/clafoutis42/no-mcp)**  
+    Perfect for when you want your AI to be consistently negative or just want to add some humor to your MCP setup.
+    
+15. **[Your Project Here?](https://github.com/YOUR_REPO)**
    If you're using no-as-a-service in your project, open a pull request to be featured here!
 
 ---
