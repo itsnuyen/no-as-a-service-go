@@ -154,8 +154,11 @@ Here are some projects and websites that creatively integrate [no-as-a-service](
 9. **[No-as-a-Service - Slack App](https://github.com/pro100svitlo/no-as-a-service-slack-app)**  
    Get a random `No` from within Slack. [Install](https://slack.com/oauth/v2/authorize?client_id=2550998207090.10222067205218&scope=commands,chat:write&user_scope=) the app to your workspace and then use the `/no` command to get a random response. 
 
-10. **[Your Project Here?](https://github.com/YOUR_REPO)**  
-   If you're using no-as-a-service in your project, open a pull request to be featured here!
+10. **[No-as-a-Service - Signal Bot](https://github.com/samtate/signal-no-as-a-service-bot)**  
+    Get a random `No` from within Signal. Deploy the Docker container, link your Signal account, and use the `/no` command to get a random response.
+
+11. **[Your Project Here?](https://github.com/YOUR_REPO)**  
+    If you're using no-as-a-service in your project, open a pull request to be featured here!
 
 ---
 
