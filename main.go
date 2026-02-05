@@ -10,7 +10,7 @@ import (
 )
 
 type Reason struct {
-	Message string `json:"message"`
+	Reason string `json:"reason"`
 }
 
 func main() {
@@ -70,8 +70,8 @@ func selectRandomEntry(reasons []string) Reason {
 	// Select random entry logic goes here
 	currentLength := len(reasons)
 	if currentLength == 0 {
-		return Reason{Message: "Just No!"}
+		return Reason{Reason: "Just No!"}
 	}
 	randomIndex := rand.IntN(currentLength)
-	return Reason{Message: reasons[randomIndex]}
+	return Reason{Reason: reasons[randomIndex]}
 }
